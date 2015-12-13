@@ -1,0 +1,79 @@
+{
+    "docs": [
+        {
+            "location": "/",
+            "text": "Welcome to Nameless\n\n\nMaybe some sort of list of all the docs?\n\nPlease note that this site is still undergoing heavy development and is subject to change at any time.",
+            "title": "Home"
+        },
+        {
+            "location": "/#welcome-to-nameless",
+            "text": "Maybe some sort of list of all the docs? Please note that this site is still undergoing heavy development and is subject to change at any time.",
+            "title": "Welcome to Nameless"
+        },
+        {
+            "location": "/user-guide/",
+            "text": "User Guide (Installing / Upgrading / Requirements (And upgrading from older to 1.0))\n\n\nAlso use of the product, settings etc etc",
+            "title": "Index"
+        },
+        {
+            "location": "/user-guide/#user-guide-installing-upgrading-requirements-and-upgrading-from-older-to-10",
+            "text": "Also use of the product, settings etc etc",
+            "title": "User Guide (Installing / Upgrading / Requirements (And upgrading from older to 1.0))"
+        },
+        {
+            "location": "/developer-guide/",
+            "text": "Developer Guide (Addon Development / Web API / MC Plugin API)",
+            "title": "Index"
+        },
+        {
+            "location": "/developer-guide/#developer-guide-addon-development-web-api-mc-plugin-api",
+            "text": "",
+            "title": "Developer Guide (Addon Development / Web API / MC Plugin API)"
+        },
+        {
+            "location": "/about/",
+            "text": "Credits, project author sam\n\n\nAdditional people who are adding a lot to the project\nPossible the main support people\nMaybe an IRC channel?",
+            "title": "Index"
+        },
+        {
+            "location": "/about/#credits-project-author-sam",
+            "text": "Additional people who are adding a lot to the project\nPossible the main support people\nMaybe an IRC channel?",
+            "title": "Credits, project author sam"
+        },
+        {
+            "location": "/about/license/",
+            "text": "Web-Project Licence\n\n\nCopyright (c) 2015 Samerton\n\n\nPermission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:\n\n\nThe above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.\n\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.\n\n\nWeb-Project Addon Licences (Official Addons Only)\n\n\nList of the addons and their licence\n\n\nMincraft Plugin Licence\n\n\nTo add once licence has been decided and plugin released\n\n\nMinecraft Plugin Addon Licences  (Official Addons Only)\n\n\nList of the addons and their licence",
+            "title": "License"
+        },
+        {
+            "location": "/about/license/#web-project-licence",
+            "text": "Copyright (c) 2015 Samerton  Permission is hereby granted, free of charge, to any person obtaining a copy\nof this software and associated documentation files (the \"Software\"), to deal\nin the Software without restriction, including without limitation the rights\nto use, copy, modify, merge, publish, distribute, sublicense, and/or sell\ncopies of the Software, and to permit persons to whom the Software is\nfurnished to do so, subject to the following conditions:  The above copyright notice and this permission notice shall be included in all\ncopies or substantial portions of the Software.  THE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR\nIMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,\nFITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE\nAUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER\nLIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,\nOUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE\nSOFTWARE.",
+            "title": "Web-Project Licence"
+        },
+        {
+            "location": "/about/license/#web-project-addon-licences-official-addons-only",
+            "text": "List of the addons and their licence",
+            "title": "Web-Project Addon Licences (Official Addons Only)"
+        },
+        {
+            "location": "/about/license/#mincraft-plugin-licence",
+            "text": "To add once licence has been decided and plugin released",
+            "title": "Mincraft Plugin Licence"
+        },
+        {
+            "location": "/about/license/#minecraft-plugin-addon-licences-official-addons-only",
+            "text": "List of the addons and their licence",
+            "title": "Minecraft Plugin Addon Licences  (Official Addons Only)"
+        },
+        {
+            "location": "/about/release-notes/",
+            "text": "Release Notes\n\n\nLet's start properly versioning our releases shall we?",
+            "title": "Release Notes"
+        },
+        {
+            "location": "/about/release-notes/#release-notes",
+            "text": "Let's start properly versioning our releases shall we?",
+            "title": "Release Notes"
+        }
+    ]
+}
