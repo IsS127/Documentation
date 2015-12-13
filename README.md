@@ -1,4 +1,4 @@
-# Nameless MC Document Generator
+# Nameless Document Generator
 Hello, this is the repository which contains the core contents to generate the nameless documents and tutorials. We are using [MkDocs](http://mkdocs.org) for the creation and building of the files.
 
 ## Submitting Content
