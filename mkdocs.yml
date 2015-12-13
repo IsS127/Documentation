@@ -1,7 +1,20 @@
 site_name: Nameless
-theme: readthedocs
+site_description: Documentation of the NamelessMC Web & MC Plugin including installation/upgrading & developer apis.
+site_author: https://github.com/NamelessMC/Documentation/graphs/contributors
+site_favicon: 'resources/images/favicon.ico'
+
+copyright: '&copy; Samerton 2014-<script>document.write(new Date().getFullYear())</script> &mdash; <a href="http://namelessmc.com/">Offical Site</a>'
+#google_analytics: To Do (Example - ['UA-36723568-3', 'mkdocs.org'])
+
 site_url: http://docs.namelessmc.com
 repo_url: https://github.com/NamelessMC
+
+theme: flatly
+extra_css:
+- 'resources/custom.css'
+extra_javascript:
+- 'resources/custom.js'
+
 pages:
 - 'Home': 'index.md'
 - User Guide:
