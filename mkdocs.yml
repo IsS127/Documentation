@@ -19,6 +19,7 @@ pages:
 - 'Home': 'index.md'
 - User Guide:
     - 'Index': 'user-guide/index.md'
+    - 'FAQs': 'user-guide/faqs.md'
 - Developer Guide:
     - 'Index': 'developer-guide/index.md'
 - About:
